@@ -1,7 +1,7 @@
 
 # Python KeyLogger
 
-A simple keylogger is a program designed to capture and log every keystroke typed on a keyboard.
+A simple keylogger that accurately track keyboard strokes.
 
 
 ![Logo](https://img.freepik.com/free-photo/businessman-using-laptop-computer-with-digital-padlock-internet-technology_587448-4892.jpg?t=st=1716328348~exp=1716331948~hmac=f5bfb13fe4c2c9552286b00a19f9acb4993aec41bbfbc0762c0e1f11a4c5ad9f&w=1380)
