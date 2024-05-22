@@ -12,7 +12,7 @@ A simple keylogger that accurately track keyboard strokes.
 Use the package manager pip to install pynput(Dependencies)
 
 ```bash
-python3 -m pip insall pynput
+python3 -m pip install pynput
 ```
     
 ## Usage
